@@ -1,4 +1,4 @@
-/// Write a program to remove duplicates from an array ?
+// Write a program to remove duplicates from an array ?
 
 function removeDuplicates(arr) {
   let uniqueArray = [];
